@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 19 11:54:03 2016
 
-@author: James
+@author: James Carney
 """
 
 import scipy.stats as sp
